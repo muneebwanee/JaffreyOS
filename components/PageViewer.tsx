@@ -94,12 +94,12 @@ export const PageViewer: React.FC<PageViewerProps> = ({ page, onClose }) => {
                     <Mail size={16} /> Mail Me
                 </a>
                 <a 
-                    href="https://github.com/muneebwanee" 
+                    href="https://github.com/muneebwanee/JeffreyOS" 
                     target="_blank" 
                     rel="noreferrer"
                     className="flex-1 min-w-[120px] flex items-center justify-center gap-2 bg-gray-100 dark:bg-[#2C2C2E] text-gray-900 dark:text-white border border-gray-200 dark:border-white/10 py-2.5 px-4 rounded-xl font-medium text-sm hover:bg-gray-200 dark:hover:bg-[#3A3A3C] transition-colors"
                 >
-                    <Github size={16} /> GitHub
+                    <Github size={16} /> Star This Repo
                 </a>
             </div>
           </div>
