@@ -44,7 +44,7 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
   const currentUser: User = {
     id: 'jeffrey',
     name: 'Jeffrey Epstein',
-    avatar: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jeffrey_Epstein_mugshot_2006.jpg/220px-Jeffrey_Epstein_mugshot_2006.jpg',
+    avatar: 'https://upload.wikimedia.org/wikipedia/commons/6/62/Jeffrey_Epstein_mug_shot.jpg',
     email: 'jeffrey@epstein.world',
   };
 
