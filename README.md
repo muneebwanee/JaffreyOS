@@ -10,7 +10,7 @@
 
 ---
 
-JeffreyOS is a meticulously crafted digital experience simulating the personal operating system of Jeffrey Epstein. This project is a web-based, high-fidelity OS simulation that runs entirely in your browser.
+JeffreyOS is a meticulously crafted digital experience simulating the personal operating system of [Jeffrey Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein). This project is a web-based, high-fidelity OS simulation that runs entirely in your browser.
 
 ---
 
